@@ -1,0 +1,6 @@
+{
+  "dependencies"  :   {
+    "ionic"     :   "~1.7.14",
+    "cordova"   :   "~6.0.0"
+  }
+}
